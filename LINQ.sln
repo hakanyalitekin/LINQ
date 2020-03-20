@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D01_Temel", "D01_Temel\D01_Temel.csproj", "{17B7842B-A861-4EB1-AF65-34D27BCB6C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B7842B-A861-4EB1-AF65-34D27BCB6C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B7842B-A861-4EB1-AF65-34D27BCB6C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B7842B-A861-4EB1-AF65-34D27BCB6C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B7842B-A861-4EB1-AF65-34D27BCB6C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7282B67-A9A8-4D28-BC94-3B3B5E985E7D}
+	EndGlobalSection
+EndGlobal
