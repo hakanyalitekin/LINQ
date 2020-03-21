@@ -66,7 +66,7 @@ namespace D09_GroupBy
                                             Branch = grupOgrenci.Key.Brans,
                                             Gender = grupOgrenci.Key.Cinsiyet,
                                             Students = grupOgrenci.OrderBy(x => x.Isim)
-                                        });
+                                        };
 
 
 
