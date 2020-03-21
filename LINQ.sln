@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D07_Select_SelectMany", "D0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D08_Count_Sum_Min_Max_Average_Aggregate", "D08_Count_Sum_Min_Max_Average_Aggregate\D08_Count_Sum_Min_Max_Average_Aggregate.csproj", "{ABEF6CFA-00E5-486A-81C6-7FD6C61075A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D09_GroupBy", "D09_GroupBy\D09_GroupBy.csproj", "{E8D0E3C3-66C3-46EF-8E9C-EA894FD5C7C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{ABEF6CFA-00E5-486A-81C6-7FD6C61075A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABEF6CFA-00E5-486A-81C6-7FD6C61075A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABEF6CFA-00E5-486A-81C6-7FD6C61075A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D0E3C3-66C3-46EF-8E9C-EA894FD5C7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D0E3C3-66C3-46EF-8E9C-EA894FD5C7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D0E3C3-66C3-46EF-8E9C-EA894FD5C7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D0E3C3-66C3-46EF-8E9C-EA894FD5C7C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
