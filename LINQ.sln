@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D14_Take_TakeWhile_Skip_Ski
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D15_Zip", "D15_Zip\D15_Zip.csproj", "{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D16_ToList_ToArray_ToDictionary_Cast", "D16_ToList_ToArray_ToDictionary_Cast\D16_ToList_ToArray_ToDictionary_Cast.csproj", "{B7DB3B99-1D58-41C2-B756-4495B25C3D06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DB3B99-1D58-41C2-B756-4495B25C3D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DB3B99-1D58-41C2-B756-4495B25C3D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DB3B99-1D58-41C2-B756-4495B25C3D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DB3B99-1D58-41C2-B756-4495B25C3D06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
