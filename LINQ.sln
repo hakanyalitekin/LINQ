@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D13_DefaultIfEmpty_Range_Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D14_Take_TakeWhile_Skip_SkipWhile", "D14_Take_TakeWhile_Skip_SkipWhile\D14_Take_TakeWhile_Skip_SkipWhile.csproj", "{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D15_Zip", "D15_Zip\D15_Zip.csproj", "{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183A9807-FB9F-40E7-A2FB-175CBACA4CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
