@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D10_Join_GroupJoin", "D10_J
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D11_First_Last_Single", "D11_First_Last_Single\D11_First_Last_Single.csproj", "{147008D8-C9AD-4E70-81BD-21C50CA481FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D12_SequenceEqual", "D12_SequenceEqual\D12_SequenceEqual.csproj", "{30CBD825-EB17-4B3C-B975-2FEF28BF3E1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{147008D8-C9AD-4E70-81BD-21C50CA481FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{147008D8-C9AD-4E70-81BD-21C50CA481FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{147008D8-C9AD-4E70-81BD-21C50CA481FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30CBD825-EB17-4B3C-B975-2FEF28BF3E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30CBD825-EB17-4B3C-B975-2FEF28BF3E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30CBD825-EB17-4B3C-B975-2FEF28BF3E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30CBD825-EB17-4B3C-B975-2FEF28BF3E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
