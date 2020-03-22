@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D12_SequenceEqual", "D12_Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D13_DefaultIfEmpty_Range_Repeat", "D13_DefaultIfEmpty_Range_Repeat\D13_DefaultIfEmpty_Range_Repeat.csproj", "{7CDE0D3B-D259-4DDE-B6B5-3FFE5C1DDBED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D14_Take_TakeWhile_Skip_SkipWhile", "D14_Take_TakeWhile_Skip_SkipWhile\D14_Take_TakeWhile_Skip_SkipWhile.csproj", "{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7CDE0D3B-D259-4DDE-B6B5-3FFE5C1DDBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CDE0D3B-D259-4DDE-B6B5-3FFE5C1DDBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CDE0D3B-D259-4DDE-B6B5-3FFE5C1DDBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C11B61-68ED-439C-9AAE-76C5D0C18F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
